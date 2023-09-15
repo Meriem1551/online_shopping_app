@@ -6,6 +6,6 @@ export default defineConfig({
   base: '/Simple-onlineShopping-page-using-Chakra-Ui/',
   plugins: [react()],
   server: {
-    port: 3001, // Change this to your desired port number
+    port: 8080, // Change this to your desired port number
   },
 })
